@@ -1,4 +1,4 @@
-# customer-bank-segmentation-ml
+customer-bank-segmentation-ml
 
-# Purwadhika Data Science
-# Idam Habib Ahmadi
+Purwadhika Data Science
+Idam Habib Ahmadi
